@@ -1,8 +1,8 @@
 ## Welcome to the DeepLabCut Organization!  👋
 
 🙋‍♀️ DeepLabCut™ is an efficient method for 2D and 3D markerless pose estimation based on transfer learning with deep neural networks. 
-- Our [main code repo is here](https://github.com/DeepLabCut/DeepLabCut).
-- 👩‍💻 [Read our documentation](https://deeplabcut.github.io/DeepLabCut/docs/intro.html) for how to get started and how to use DeepLabCut.
+- The [main code repository is here](https://github.com/DeepLabCut/DeepLabCut). Contains code for all necessary steps to do pose estimation incl. GUI.
+- 👩‍💻 [Read the documentation](https://deeplabcut.github.io/DeepLabCut/docs/intro.html) for how to get started and how to use DeepLabCut.
 
 We also have several related code repositories that may be of interest:
  
